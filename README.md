@@ -26,7 +26,7 @@ What sets our system apart is its tailored approach. We've designed it specifica
 
 <b>4. Frontend Technologies : </b> <p>We have used frontend technologies such as HTML, CSS, JavaScript to build the user interface of your POS system.</p>
 
-<b>4. Visual Studio Code (VSCode) : </b><p>Visual Studio Code (VSCode) is a lightweight, opensource code editor developed by Microsoft. It supports various programming languages, extensions, and provides a customizable and userfriendly interface. Here we have used Visual Studio Code as your primary code editor for Laravel development. It offers features like syntax highlighting, debugging, and extensions that enhance the development experience.</p>
+<b>4. Visual Studio Code (VSCode) : </b><p>Visual Studio Code (VSCode) is a lightweight, open-source code editor developed by Microsoft. It supports various programming languages, extensions, and provides a customizable and user-friendly interface. Here we have used Visual Studio Code as your primary code editor for Laravel development. It offers features like syntax highlighting, debugging, and extensions that enhance the development experience.</p>
 
    
 
